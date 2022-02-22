@@ -1,4 +1,6 @@
 # Seeed_reTerminal_Bridge_Fan_control
+
+![](https://files.seeedstudio.com/wiki/reTerminal_Bridge/reTerminal_bridge.jpg)
  
 Example Python code for using fan on reTerminal Bridge.
 
@@ -31,5 +33,7 @@ $ sudo python3 fan.py
 
 After the code runs successfully, when the CPU temperature is detected to be higher than 40°C, the fan will be turned on. When the temperature is lower than 20°C, the fan will be turned off.
 
+## Getting Started
 
+- [reTerminal Bridge wiki]()
 
